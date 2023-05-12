@@ -1,5 +1,4 @@
 <h1 align="center">Hey, its Chirag</h1>
-<h3 align="center">Noob Developer</h3>
 
 - 🔭 I’m currently working on **Web development**
 
