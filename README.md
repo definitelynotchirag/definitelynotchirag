@@ -1,18 +1,18 @@
 <h1 align="center">Hey, its Chirag</h1>
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **Data Structure & Algorithms, Open Source, C++ & Web-Development**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **C++ & LeetCode**
 
-- 👯 I’m looking to collaborate on **Github**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🤝 I’m looking for help with **FrontEnd Web Developing**
 
-- 💬 Ask me about **Python, C++, HTML**
+- 💬 Ask me about **Python, C++, Web Development, Telegram Bots**
 
 - 📫 How to reach me **chiragdave1888@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I have no Enemies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
