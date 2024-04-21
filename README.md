@@ -2,13 +2,13 @@
 
 - 🔭 I’m currently working on **Data Structure & Algorithms, Open Source, C++ & Web-Development**
 
-- 🌱 I’m currently learning **C++ & LeetCode**
+- 🌱 I’m currently learning **NextJs And React also a bit of Android Development**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Any Open Source Projects**
 
-- 🤝 I’m looking for help with **FrontEnd Web Developing**
+- 🤝 I’m looking for help with **Backend Development And AI**
 
-- 💬 Ask me about **Python, C++, Web Development, Telegram Bots**
+- 💬 Ask me about **Telegram Bots, Full Stack Website Development, Python and Data Analytics**
 
 - 📫 How to reach me **chiragdave1888@gmail.com**
 
