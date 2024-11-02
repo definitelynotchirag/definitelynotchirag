@@ -50,6 +50,9 @@
     <img src="https://skillicons.dev/icons?i=stackoverflow&perline=1" />
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=definitelynotchirag&style=for-the-badge"/>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -72,3 +75,5 @@
 
 
 [![An image of @definitelynotchirag's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/definitelynotchirag)](https://holopin.io/@definitelynotchirag)
+
+![](https://hit.yhype.me/github/profile?user_id=113599034)
