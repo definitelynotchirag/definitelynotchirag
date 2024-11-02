@@ -59,11 +59,16 @@
 </p>
 
 <hr/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=definitelynotchirag&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Chirag's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=definitelynotchirag&theme=midnight-purple&hide_border=true" alt="Chirag's GitHub Streak Stats" style="margin-left: 40px;" />
-</p>
-<hr/>
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=definitelynotchirag&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Chirag's GitHub Stats" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=definitelynotchirag&theme=midnight-purple&hide_border=true" alt="Chirag's GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
 
 
 [![An image of @definitelynotchirag's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/definitelynotchirag)](https://holopin.io/@definitelynotchirag)
