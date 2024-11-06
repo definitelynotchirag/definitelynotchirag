@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/definitelynotchirag">
-    <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA1NTE1NjMsIm5iZiI6MTczMDU1MTI2MywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTAyVDEyNDEwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwNzEzMzAxNjI4YWRkMGUyYzFhZjBhYmY5MzlmYWJlMzZjOTI1NDQxMTEzZTM2Yjc1NzNiNjdmZTcwZDIxZjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.n8NSLavk2euqTru4WVbCQMzRmnV95mmvx-e2uUpEz7A"/>
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
   </a>
 </p>
 
