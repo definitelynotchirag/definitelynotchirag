@@ -40,7 +40,7 @@
   <a href="https://www.youtube.com/c/blackfox">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="50" width="50"/>
   </a>
-  <a href="https://dev.to/definitelynotchirag">
+  <a href="https://discord.com/users/722835137615888406">
     <img src="https://skillicons.dev/icons?i=discord&perline=1" />
   </a>
   <a href="https://replit.com/@chiragdave1888">
