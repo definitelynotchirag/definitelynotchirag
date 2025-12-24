@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=definitelynotchirag&style=flat-square&color=blueviolet" />
-</p>
-
 <h1 align="center">Chirag Dave</h1>
 <p align="center">Software Engineer • Backend + AI Systems</p>
 
@@ -36,4 +32,7 @@ Overall focus is on building software that is stable, scalable, and ready for pr
 Email: **chiragdave1888@gmail.com**  
 Website: **https://chiragx.me**
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=definitelynotchirag&style=flat-square&color=blueviolet" />
+</p>
 <p align="center"><b>Always learning. Always shipping.</b></p>
