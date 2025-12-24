@@ -1,3 +1,6 @@
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+
+
 <h1 align="center">Chirag Dave</h1>
 <p align="center">Software Engineer • Backend + AI Systems</p>
 
