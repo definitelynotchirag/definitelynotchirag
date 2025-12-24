@@ -1,82 +1,58 @@
 <p align="center">
-  <a href="https://github.com/definitelynotchirag">
-    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=definitelynotchirag&style=for-the-badge" />
 </p>
 
+<h1 align="center">Chirag</h1>
+<p align="center">Full Stack Developer focused on Generative AI and practical shipped products</p>
 
-<h1 align="center">Hey, It's Chirag! 
-  <img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" alt="A small GIF" style="width: 30px; height: 30px;"/>
-</h1>
+---
 
+### What I Do
+I build end to end systems that combine:
+- Next.js and Tailwind for fast product UI
+- LangChain and LLMs for Generative AI features
+- Python and Node backends for actual business logic that is not tutorial level
+- MongoDB and Postgres depending on scale and structure
+- Telegram bots that ship fast and solve problems instead of looking pretty
 
+If something needs to go from idea to working product without crying about architecture for 3 weeks, I can handle it.
 
-- 🔭 I’m currently working on **GenerativeAI using Langchain and Supervised Machine Learning**
+---
 
-- 🌱 I’m currently learning **NestJS and Machine Learning**
+### Current Focus
+- Building real Generative AI features with LangChain
+- Strengthening backend architecture and reliability
+- Improving ML fundamentals with small but consistent projects
 
-- 👯 I’m looking to collaborate on **Any OpenSource Projects based on GenAI and Nextjs/React**
+---
 
-- 🤝 I’m looking for help with **Backend Development And AI**
+### Projects Worth Looking At
+| Project | What it Proves |
+|---------|-----------------|
+| **ChatX** | Full stack AI chat app with LangChain, production auth, and data handling |
+| **Placement Predictor** | Python ML pipeline and web integration that does not fall apart on real data |
+| **HackScrapped** | Scraper and workflow automation built for actual use not demo screenshots |
 
-- 💬 Ask me about **Telegram Bots, Full Stack Web Development, Python, Data Analytics and GenerativeAI**
+(Replace these with your real repo links and keep the explanations sharp)
 
-- 📫 How to reach me **chiragdave1888@gmail.com**
+---
 
-- ⚡ Fun fact **I have no Enemies**
+### Skills That Actually Matter
+- Full Stack Dev: Next.js, React, Tailwind, Node.js, Prisma
+- Backend and Infra: REST, MongoDB, Postgres, basic Docker use
+- AI and ML: Python, LangChain, supervised learning basics, model integration
+- Automation: Telegram bots, data workflows, scrapers
 
-<h3 align="left">Connect with me:</h3>
+I am not listing every tool I have ever touched. Only the ones I can defend.
 
-<p align="center">
-  <a href="https://github.com/definitelynotchirag">
-    <img src="https://skillicons.dev/icons?i=github&perline=1" />
-  </a>
-  <a href="mailto:chiragdave1888@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&perline=1" />
-  </a>
-  <a href="https://dev.to/definitelynotchirag">
-    <img src="https://skillicons.dev/icons?i=devto&perline=1" />
-  </a>
-  <a href="https://www.youtube.com/c/blackfox">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="50" width="50"/>
-  </a>
-  <a href="https://discord.com/users/722835137615888406">
-    <img src="https://skillicons.dev/icons?i=discord&perline=1" />
-  </a>
-  <a href="https://replit.com/@chiragdave1888">
-    <img src="https://skillicons.dev/icons?i=replit&perline=1" />
-  </a>
-  <a href="https://stackoverflow.com/users/23331475/chirag">
-    <img src="https://skillicons.dev/icons?i=stackoverflow&perline=1" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=definitelynotchirag&style=for-the-badge"/>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,anaconda,arch,arduino,aws,cpp,docker,express,figma,firebase,gcp,mongodb,mysql,nodejs,postgres,prisma,py,react,supabase,tailwind,ts,vercel&perline=8" />
-  </a>
-</p>
+### Contact
+- **Email:** chiragdave1888@gmail.com  
+- **GitHub:** https://github.com/definitelynotchirag
 
-<hr/>
-<p align=center>
-    <div align="center">
-        <a>
-            <img width=396 src="https://github-readme-stats.vercel.app/api?username=definitelynotchirag&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="definitelynotchirag" /> 
-        </a>
-    &nbsp; &nbsp; &nbsp;
-        <a>
-            <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=definitelynotchirag&theme=midnight-purple&hide_border=true" alt="definitelynotchirag" />
-        </a>
-    </div> 
-    &nbsp; &nbsp;
-</p>
+---
 
+### One Line Summary
+I build. I ship. I improve.
 
-
-[![An image of @definitelynotchirag's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/definitelynotchirag)](https://holopin.io/@definitelynotchirag)
-
-![](https://hit.yhype.me/github/profile?user_id=113599034)
