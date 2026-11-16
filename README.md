@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<a href="https://chiragx.me"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" /></a>
+<a href="https://chirxg.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" /></a>
 <a href="mailto:chiragdave1888@gmail.com"><img src="https://img.shields.io/badge/Email-7F3FF1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/definitelynotchirag"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github" /></a>
 <a href="https://linkedin.com/in/chirag-dave-751a91249"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
